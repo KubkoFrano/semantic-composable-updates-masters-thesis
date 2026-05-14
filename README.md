@@ -1,6 +1,7 @@
 # Semantic, composable updates for asynchronous application state
 
 **Student:** Jakub Fraňo
+
 **Supervisor:** RNDr. Jozef Šiška, PhD.
 
 ## Overview
@@ -17,6 +18,9 @@ Design a protocol for semantic, composable updates that supports optimistic loca
 - client-server architecture
 - **semantic compression**
 - path-based substriptions
+
+## Overleaf Link
+https://www.overleaf.com/project/6a05b53d48ce2e27b400a74b
 
 ## Calendar
 | Date Range | Phase | Milestone / Task |
