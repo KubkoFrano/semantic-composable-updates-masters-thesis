@@ -23,16 +23,16 @@ Design a protocol for semantic, composable updates that supports optimistic loca
 https://www.overleaf.com/project/6a05b53d48ce2e27b400a74b
 
 ## Calendar
-| Date Range | Phase | Milestone / Task |
-| :--- | :--- | :--- |
-| **Mar 16 – Mar 22** | Research | Existing solutions and synchronization approaches |
-| **Mar 23 – Mar 29** | Research | Operational Transformation (OT) |
-| **Mar 30 – Apr 05** | Research | Conflict-Free Replicated Data Types (CRDTs) |
-| **Apr 06 – Apr 12** | Concept | Problem definition and solution proposal |
-| **Apr 13 – Apr 19** | Modeling | Formal model and protocol brainstorming |
-| **Apr 20 – Apr 26** | Development | Design a prototype; decide on frameworks & libraries |
-| **Apr 27 – May 03** | Validation | Brainstorming validation strategies |
-| **May 04 – May 10** | Conclusion | LaTeX setup & final presentation |
+| Week | Task |
+| :--- | :--- |
+| **Mar 16 – Mar 22** | Existing solutions and synchronization approaches |
+| **Mar 23 – Mar 29** | Operational Transformation (OT) |
+| **Mar 30 – Apr 05** | Conflict-Free Replicated Data Types (CRDTs) |
+| **Apr 06 – Apr 12** | Problem definition and solution proposal |
+| **Apr 13 – Apr 19** | Formal model and protocol brainstorming |
+| **Apr 20 – Apr 26** | Design a prototype; decide on frameworks & libraries |
+| **Apr 27 – May 03** | Brainstorming validation strategies |
+| **May 04 – May 10** | LaTeX setup & final presentation |
 
 ## TODO
 - Define formal model
